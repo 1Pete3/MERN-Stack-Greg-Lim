@@ -17,8 +17,8 @@ This book uses ES modules syntax whereas in my code, I will be using CommonJS mo
 
 <h2>Prerequisites</h2>
 A MongoDB account is required for creating a database and using the connection uri within the project.<br />
-
-MERN stands for:<br />
+<br />
+<strong>MERN</strong> stands for:<br />
 
 <strong>M</strong> - MongoDB<br />
 <strong>E</strong> - Express<br />
