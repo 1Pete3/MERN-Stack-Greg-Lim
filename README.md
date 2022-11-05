@@ -12,11 +12,15 @@ ISBN - 979-8523625503<br />
 Publication Date - June 21, 2021
 </p>
 
-<h2>Getting Started</h2>
-This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here <a href ="https://blog.logrocket.com/commonjs-vs-es-modules-node-js/">CommonJs vs. ES Modules</a>
+
 
 <h2>Prerequisites</h2>
-A MongoDB account is required for creating a database and using the connection uri within the project.<br />
+
+<ul>
+  <li>A MongoDB account is required for creating a database and using the connection uri within the project.</li>
+  <li>The book</li>
+  <li>Knowledge of MERN technologies as well as 
+</ul>
 <br />
 <strong>MERN</strong> stands for:<br />
 
@@ -26,6 +30,9 @@ A MongoDB account is required for creating a database and using the connection u
 <strong>N</strong> - Node<br />
 <br />
 So it is important that you are familiar with each of these technologies as well as HTML,CSS, and JavaScript before purchasing/reading this book.
+
+<h2>Getting Started</h2>
+This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here <a href ="https://blog.logrocket.com/commonjs-vs-es-modules-node-js/">CommonJs vs. ES Modules</a>
  
 <h2>Packages</h2>
 There are several packages used in this project they are listed below 
