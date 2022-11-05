@@ -12,10 +12,10 @@ ISBN - 979-8523625503<br />
 Publication Date - June 21, 2021
 </p>
 <hr>
-## Getting Started
+<h2>Getting Started</h2>
 This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here [CommonJs vs. ES Modules](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
 
-### Prerequisites
+<h2>Prerequisites</h2>
 MERN stands for:<br />
 M - MongoDB<br />
 E - Express<br />
@@ -24,7 +24,7 @@ N - Node<br />
 
 So it is important that you are familiar with each of these technologies as well as HTML,CSS, and JavaScript before purchasing/reading this book.
  
-### Packages
+<h2>Packages</h2>
 There are several packages used in this project and they make life a whole lot easier. 
 
 If you use VS Code remember to use the following command in the terminal to create a package.json file
