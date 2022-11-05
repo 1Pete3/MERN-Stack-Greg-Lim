@@ -91,3 +91,9 @@ To install the packages above the following command can be used
 
 
 <h2>Enviroment Variables (.env)</h2>
+If you decide to clone my repo, your project will not work because of some enviroment variables in the .env file.
+    
+    DATABASE_URI=<YOUR CONNECTION STRING>
+    MOVIES_REVIEWS=<YOUR DATABASE COLLECTION>
+    PORT=<YOUR PORT>
+    
