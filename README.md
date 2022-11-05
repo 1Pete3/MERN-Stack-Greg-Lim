@@ -1,4 +1,4 @@
-# MERN Stack Applpication using "Beginning MERN Stack Development" by Greg Lim
+<h1 align="center"> MERN Stack Applpication using "Beginning MERN Stack Development" by Greg Lim</h1>
 <p align="center">
   <img src="https://m.media-amazon.com/images/P/B0979MGJ5J.01._SCLZZZZZZZ_SX500_.jpg">
 </p>
