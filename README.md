@@ -13,11 +13,11 @@ Publication Date - June 21, 2021
 This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here [CommonJs vs. ES Modules](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
 
 ### Prerequisites
-MERN stands for:
-M - MongoDB
-E - Express
-R - React
-N - Node
+MERN stands for:<br />
+M - MongoDB<br />
+E - Express<br />
+R - React<br />
+N - Node<br />
 
 So it is important that you are familiar with each of these technologies as well as HTML,CSS, and JavaScript before purchasing/reading this book.
  
