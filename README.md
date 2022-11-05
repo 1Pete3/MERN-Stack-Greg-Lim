@@ -19,7 +19,7 @@ Publication Date - June 21, 2021
 <ul>
   <li>A MongoDB account is required for creating a database and using the connection uri within the project.</li>
   <li>The book</li>
-  <li>Knowledge of MERN technologies as well as 
+  <li>Knowledge of MERN technologies as well as HTML, CSS, and JavaScript
 </ul>
 <br />
 <strong>MERN</strong> stands for:<br />
@@ -33,6 +33,10 @@ So it is important that you are familiar with each of these technologies as well
 
 <h2>Getting Started</h2>
 This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here <a href ="https://blog.logrocket.com/commonjs-vs-es-modules-node-js/">CommonJs vs. ES Modules</a>
+
+My project is currently structured like this
+![image](https://user-images.githubusercontent.com/75858369/200129260-3c4dba50-a447-4a1e-be3c-013a07014c87.png)
+
  
 <h2>Packages</h2>
 There are several packages used in this project they are listed below 
