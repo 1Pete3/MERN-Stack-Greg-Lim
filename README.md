@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-I am currently reading and completing the project in "[Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App](https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J) 
+I am currently reading and completing the project in <a href ="https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J">Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App </a>
 by Greg Lim
 </p>
 <p align="center">
