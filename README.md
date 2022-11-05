@@ -98,3 +98,8 @@ A .env file can be created in the root directory to solve this issue, you need t
     MOVIES_REVIEWS=<YOUR DATABASE COLLECTION>
     PORT=<YOUR PORT>
     
+<h2>Running the Project</h2>
+Type the following command in the terminal and make sure you are in the root directory
+     
+     npm run dev
+    
