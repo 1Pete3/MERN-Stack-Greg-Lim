@@ -36,7 +36,9 @@ This book uses ES modules syntax whereas in my code, I will be using CommonJS mo
 <br/>
 My project is currently structured like this
 <br/>
-![image](https://user-images.githubusercontent.com/75858369/200129260-3c4dba50-a447-4a1e-be3c-013a07014c87.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75858369/200129260-3c4dba50-a447-4a1e-be3c-013a07014c87.png">
+  </p>
 
  
 <h2>Packages</h2>
