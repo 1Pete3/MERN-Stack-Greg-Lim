@@ -25,12 +25,20 @@ N - Node<br />
 So it is important that you are familiar with each of these technologies as well as HTML,CSS, and JavaScript before purchasing/reading this book.
  
 <h2>Packages</h2>
-There are several packages used in this project and they make life a whole lot easier. 
+There are several packages used in this project they are listed below 
+<ul>
+  <li><a href="https://www.npmjs.com/package/cors">Cors</a></li>
+  <li><a href="https://www.npmjs.com/package/dotenv">Dotenv</a></li>
+  <li><a href="https://www.npmjs.com/package/express">Express</a></li>
+  <li><a href="https://www.npmjs.com/package/mongodb">MongoDB</a></li>
+</ul>
+
+
 
 If you use VS Code remember to use the following command in the terminal to create a package.json file
 
     npm init -y
 
-code(test)
+   
 
 
