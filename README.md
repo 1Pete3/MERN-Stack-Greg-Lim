@@ -6,7 +6,8 @@
 <p align="center">
 I am currently reading and completing the project in "[Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App](https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J) 
 by Greg Lim
-
+</p>
+<p align="center">
 ISBN - 979-8523625503<br />
 Publication Date - June 21, 2021
 </p>
