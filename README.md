@@ -1,6 +1,6 @@
 # MERN Stack Applpication using "Beginning MERN Stack Development" by Greg Lim
 
-https://m.media-amazon.com/images/P/B0979MGJ5J.01._SCLZZZZZZZ_SX500_.jpg
+<img src="https://m.media-amazon.com/images/P/B0979MGJ5J.01._SCLZZZZZZZ_SX500_.jpg">
 
 I am currently reading and completing the project in "[Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App](https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J) 
 by Greg Lim
