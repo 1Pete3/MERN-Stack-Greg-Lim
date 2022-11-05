@@ -64,6 +64,14 @@ To install the packages above the following command can be used
  I installed nodemon as a dev dependencies by using the following command
  
     npm i nodemon -D
-   
+  
+ Inside package.json I have the following code 
+    
+      "main": "server.js",
+    "scripts": {
+      "start": "npm Backend/server",
+      "dev": "nodemon Backend/server"
+      
+
 
 
