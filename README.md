@@ -67,11 +67,28 @@ To install the packages above the following command can be used
   
  Inside package.json I have the following code 
     
-      "main": "server.js",
+     {
+    "name": "movie-reviews",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
     "scripts": {
       "start": "npm Backend/server",
       "dev": "nodemon Backend/server"
-      
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "mongodb": "^4.11.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.20"
+    }
+  }
 
 
 
