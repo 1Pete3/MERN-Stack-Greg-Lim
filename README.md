@@ -33,7 +33,7 @@ So it is important that you are familiar with each of these technologies as well
 
 <h2>Getting Started</h2>
 This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here <a href ="https://blog.logrocket.com/commonjs-vs-es-modules-node-js/">CommonJs vs. ES Modules</a>
-<br/>
+<br/><br/>
 My project is currently structured like this
 <br/>
 <p align="center">
