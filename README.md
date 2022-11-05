@@ -11,7 +11,7 @@ by Greg Lim
 ISBN - 979-8523625503<br />
 Publication Date - June 21, 2021
 </p>
-<hr>
+
 <h2>Getting Started</h2>
 This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here [CommonJs vs. ES Modules](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
 
