@@ -16,6 +16,8 @@ Publication Date - June 21, 2021
 This book uses ES modules syntax whereas in my code, I will be using CommonJS modules. More information on the differences can be found here <a href ="https://blog.logrocket.com/commonjs-vs-es-modules-node-js/">CommonJs vs. ES Modules</a>
 
 <h2>Prerequisites</h2>
+A MongoDB account is required for creating a database and using the connection uri within the project.
+
 MERN stands for:<br /><br />
 
 <strong>M</strong> - MongoDB<br />
