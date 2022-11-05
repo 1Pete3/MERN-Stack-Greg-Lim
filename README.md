@@ -21,7 +21,7 @@ M - MongoDB<br />
 E - Express<br />
 R - React<br />
 N - Node<br />
-
+<br />
 So it is important that you are familiar with each of these technologies as well as HTML,CSS, and JavaScript before purchasing/reading this book.
  
 <h2>Packages</h2>
