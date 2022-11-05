@@ -90,4 +90,4 @@ To install the packages above the following command can be used
     }
 
 
-
+<h2>Enviroment Variables (.env)</h2>
