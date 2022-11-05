@@ -31,6 +31,7 @@ There are several packages used in this project they are listed below
   <li><a href="https://www.npmjs.com/package/dotenv">Dotenv</a></li>
   <li><a href="https://www.npmjs.com/package/express">Express</a></li>
   <li><a href="https://www.npmjs.com/package/mongodb">MongoDB</a></li>
+  <li><a href="https://www.npmjs.com/package/nodemon">Nodemon</a></li>
 </ul>
 
 
@@ -38,7 +39,14 @@ There are several packages used in this project they are listed below
 If you use VS Code remember to use the following command in the terminal to create a package.json file
 
     npm init -y
+    
+To install the packages above the following command can be used 
 
+    npm i cors dotenv express mongodb
+    
+ I installed nodemon as a dev dependencies by using the following command
+ 
+    npm i nodemon -D
    
 
 
